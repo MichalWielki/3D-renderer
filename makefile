@@ -1,4 +1,3 @@
-BIN = bin
 SRC = src
 INCLUDE = include
 FLAGS = -ggdb
